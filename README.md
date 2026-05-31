@@ -52,6 +52,4 @@ Developed an interactive Power BI dashboard to analyze customer behavior, produc
 * Sales showed consistent growth across the analyzed period.
 * Top-performing products significantly influenced profitability.
 
-## Author
 
-Atluri Mokshith Uma Sai
